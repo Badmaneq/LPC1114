@@ -1,0 +1,2 @@
+../src/delay.c:16:6:delay_Us	16	static
+../src/delay.c:27:6:delay_Ms	16	static
